@@ -1,5 +1,5 @@
 # REACT REST Client Project
-This is a Spring Boot RESTful Web Service application. This web service use Http Get method and it returns list of users stored in DB with matching name parameter.
+This is a REACT Client project. This app use Http Get method and it returns list of users stored in Database with matching name parameter.
 
 ### Installing
 In the project directory, you can run: `npm install` (or `yarn install`)
